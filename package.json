@@ -1,6 +1,6 @@
 {
   "homepage": "http://andiphoenix.github.io/ExpensesList",
-  "name": "react-complete-guide",
+  "name": "expense-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
